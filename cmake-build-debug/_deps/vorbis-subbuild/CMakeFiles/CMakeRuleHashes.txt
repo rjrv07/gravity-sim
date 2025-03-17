@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+4765664fb2a0541fd544967a3fdb719a CMakeFiles/vorbis-populate
+c8779cb7e7dd4a86d8a3695bf1050ea1 CMakeFiles/vorbis-populate-complete
+f4c97607fcce603d8881c35e635c52e1 vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build
+2206efbdd07f4e01769892e0ac52d8b8 vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure
+bfa551a7114205f5eabfe84e60152995 vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download
+f1a2fb78edb09c8a7001ba6de70782f4 vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install
+fbec55b907586b84c9c29c09b264851c vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir
+1ad142ef5cde3f557567f8042a72c019 vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch
+712ced14c68168dfad951739f579b263 vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test
+a6a502b398c3f07f8686d5f757eae289 vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update
